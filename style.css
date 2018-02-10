@@ -1,0 +1,71 @@
+body    {
+    font-size:  10pt;
+    font-family: Veranda, Geneva, Arial, Helvetica, san-serif;
+    line-height: 14pt;
+    padding-left:   5pt;
+    padding-right:  5pt;
+    padding-top:    5pt;
+    color: black;
+    border-color:black;
+    border-style:solid;
+}
+
+h1  {
+    font: 60pt Arial;
+    text-align: center;
+    font-weight: bold;
+    line-height: 30pt;
+    color:green;
+    color: red;
+
+    
+}
+
+h1.silly    {
+    font: 60pt Roman;
+}
+
+h2  {
+    color: black;
+    font: 24pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+    text-align: center;
+     
+        
+subheader {
+    font-weight: bold;
+    color: blue;
+    
+}
+
+p   {
+
+    float:right
+}
+
+img {
+    float:  right;
+    padding: 3pt;
+    align: left;
+}
+
+a   {
+    text-decoration: none;
+}
+
+a:link, a:visited   {
+   
+}    
+
+a:hover, a:active   {
+    color: red;
+}
+
+footer {    
+    font-size:  8pt;
+    font-style: italic;
+    line-height: 12pt;
+    text-align: center;
+    color: red;
+    padding-top: 30pt;
+    
+}    
