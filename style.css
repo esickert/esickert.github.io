@@ -36,8 +36,8 @@ subheader {
 }
 
 p   {
-
-    float:right
+    font: 24pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+    
 }
 
 img {
