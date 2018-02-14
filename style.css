@@ -32,11 +32,6 @@ h3  {
     text-align: center;
 }
 
-subheader {
-    font-weight: bold;
-    color: blue;
-}
-
 p   {
     font: 24pt Verdana, Geneva, Arial, Helvetica, sans-serif;
     text-align: center;
@@ -91,12 +86,11 @@ a   {
      100% { opacity: 1.0; }
      }
 
-footer {    
-    font-size:  8pt;
+footer p {    
+    font-size:  12pt;
     font-style: italic;
-    line-height: 12pt;
+    line-height: 8pt;
     text-align: center;
-    color: red;
+    color: black;
     padding-top: 30pt;
-    
 }    
