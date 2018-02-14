@@ -48,10 +48,14 @@ img {
     display: block;
     margin: 0 auto;
     text-align: center;
+    border-color:black;
+    border-style: solid;
+    
 }
 
 a   {
-    text-decoration: none;
+    display: block;
+    margin: 0 auto;
     text-align: center;
 }
 
