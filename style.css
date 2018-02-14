@@ -27,23 +27,26 @@ h2  {
     font: 24pt Verdana, Geneva, Arial, Helvetica, sans-serif;
     text-align: center;
      
-        
+h3  {
+    text-align: center;}
+}
+
 subheader {
     font-weight: bold;
     color: blue;
-    
 }
 
 p   {
     font: 24pt Verdana, Geneva, Arial, Helvetica, sans-serif;
     text-align: center;
-
 }
 
 img {
-    float:  center;
+    
     padding: 3pt;
-    align: center;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
 }
 
 a   {
