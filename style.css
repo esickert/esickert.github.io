@@ -15,10 +15,10 @@ h1  {
     text-align: center;
     font-weight: bold;
     line-height: 12pt;
-    color: red;
+    color: blue;
 }
 
-h1.silly    {
+.silly    {
     font: 60pt Arial, Roman;
 }
 
