@@ -18,7 +18,7 @@ h1  {
     color: blue;
 }
 
-.silly    {
+.silly    {   <--this is a class
     font: 60pt Arial, Roman;
 }
 
