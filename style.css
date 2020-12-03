@@ -15,7 +15,7 @@ h1  {
     text-align: center;
     font-weight: bold;
     line-height: 12pt;
-    color: blue;
+    color: black;
 }
 
 .silly    {   <--this is a class
@@ -23,7 +23,7 @@ h1  {
 }
 
 h2  {
-    color: black;
+    color: blue;
     font: 24pt Verdana, Geneva, Arial, Helvetica, sans-serif;
     text-align: center;
 }
