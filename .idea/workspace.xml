@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93849857-a63a-44bb-aed6-91e2d02d3dac" name="Default" comment="plus">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EricSickertResume.docx" beforeDir="false" afterPath="$PROJECT_DIR$/EricSickertResume.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,13 +90,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518222773197</updated>
-    </task>
-    <task id="LOCAL-00033" summary="plus">
-      <created>1518413397186</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1518413397186</updated>
     </task>
     <task id="LOCAL-00034" summary="plus">
       <created>1518413830133</created>
@@ -435,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606585203159</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="plus">
+      <created>1607023544006</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1607023544006</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TodoView">
@@ -462,12 +461,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="plus" />
     <option name="LAST_COMMIT_MESSAGE" value="plus" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-1473" y="-192" key="Vcs.Push.Dialog.v2" timestamp="1606585209875">
-      <screen x="-1920" y="-422" width="1920" height="1172" />
-    </state>
-    <state x="-1473" y="-192" key="Vcs.Push.Dialog.v2/0.0.1366.736/-1920.-422.1920.1172@-1920.-422.1920.1172" timestamp="1606585209875" />
   </component>
   <component name="masterDetails">
     <states>
