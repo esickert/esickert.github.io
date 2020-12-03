@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93849857-a63a-44bb-aed6-91e2d02d3dac" name="Default" comment="plus">
-      <change beforePath="$PROJECT_DIR$/EricSickertResume.docx" beforeDir="false" afterPath="$PROJECT_DIR$/EricSickertResume.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EricSickertResume1.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,13 +90,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518222773197</updated>
-    </task>
-    <task id="LOCAL-00034" summary="plus">
-      <created>1518413830133</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1518413830148</updated>
     </task>
     <task id="LOCAL-00035" summary="plus">
       <created>1518572194714</created>
@@ -434,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607023544006</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="plus">
+      <created>1607024158658</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1607024158658</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TodoView">
