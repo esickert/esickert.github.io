@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93849857-a63a-44bb-aed6-91e2d02d3dac" name="Default" comment="plus" />
+    <list default="true" id="93849857-a63a-44bb-aed6-91e2d02d3dac" name="Default" comment="plus">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,13 +92,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518222773197</updated>
-    </task>
-    <task id="LOCAL-00051" summary="plus">
-      <created>1519178431238</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1519178431238</updated>
     </task>
     <task id="LOCAL-00052" summary="plus">
       <created>1519179106534</created>
@@ -434,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661459745711</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="plus">
+      <created>1661460144146</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1661460144147</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TodoView">
